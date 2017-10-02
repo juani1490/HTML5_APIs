@@ -1,0 +1,27 @@
+-Storages
+
+Create a page with a textarea and a save button.
+
+Save textarea content's when the user clicks on save. Use both localStorage and IndexedDB.
+
+Add a clear button to erase saved content.
+
+
+-Drag and Drop
+
+Add drag and drop support to load text files.
+
+-WebSockets
+
+Open a web socket and test it against this service.
+
+-SVG
+
+Create a web page with a SVG element to show a vector graphic. Make sure you understand when is better to use SVG instead of bitmaps, 
+and viceversa.
+
+-Canvas
+
+Create a web page with a canvas element. Upon page load draw basic geometric figures with random colors and strokes.
+
+Using the Canvas API, animate a rectangle's position on the screen. Make sure not to use setTimeout but requestTimeFrame to perform the animation.
